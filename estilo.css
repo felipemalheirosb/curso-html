@@ -1,0 +1,126 @@
+body{
+	background-color: #ffffff;
+}
+
+h2.titulo{
+    font-size: 60px;
+    text-shadow: 8px 8px 8px #000000;
+}
+
+p.subtitulo{
+    font-size: 25px;
+    text-shadow: 2px 2px 2px #000000;
+    color: #defb3d;
+}
+
+.thumbnail{
+	margin-top: 20px;
+}
+
+.trofeu{
+	width: 100px;
+	height: auto;
+    margin-top: 30px;
+}
+
+.supercopa{
+    width: 150px;
+    height: auto;
+}
+
+.jubs{
+    width: 150px;
+    height: auto;
+}
+
+.rodape {
+    font-size: 18px;
+    font-weight: 200;
+    color: #ffffff;
+    text-align: center;
+}
+
+.display{
+    font-size: 20px;
+    font-weight: 400;
+    color: #ffffff;
+    text-align: left;
+}
+
+.basquete{
+    text-align: left;
+    padding-left: 30px;
+    padding: 40px 0;
+}
+
+.display2{
+    font-size: 40px;
+    font-weight: 400;
+    color: #000000;
+    margin-top: 0px;
+}
+
+.leitura{
+    font-size: 18px;
+    font-weight: 300;
+    color: #000000;
+    text-align: left;
+}
+
+.icon-face{
+    padding: 10px;
+}
+
+.icon-insta{
+    padding: 10px;
+    width: 20px;
+    height: 20px;
+}
+
+.icon-twitter{
+    padding: 10px;
+}
+
+.icon-youtube{
+    padding: 10px;
+}
+
+.img-titulo{
+    display: block;
+    max-width: 100%;
+    height: auto;
+}
+
+.img-logo{
+    display: block;
+    max-width: 85%;
+    height: auto;
+}
+
+.img-navbar{
+    display: block;
+    max-width: 100%;
+    height: auto;
+    padding: 10px;
+}
+
+.textodif{
+    font-size: 18px;
+    padding-bottom: 20px;
+}
+
+.icones-sociais{
+    width: 250px;
+    height: 44px;
+    margin-left: 450px;
+}
+
+.video{
+    padding-left: 20px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+.corpotexto{
+    padding-top: 0px;
+}
